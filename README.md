@@ -1,6 +1,8 @@
 # Isuzu_Cars_in_Mumbai_Project
 
 # Car Data Analysis Project 🚗📊
+![image](https://github.com/user-attachments/assets/244c34bf-9ff5-4029-bc58-50b491bd6b2f)
+
 
 ## Overview
 This project focuses on analyzing used car data in Mumbai, with a specific emphasis on Isuzu and Volvo cars. The goal is to uncover insights into pricing trends, customer preferences, and key market patterns using data cleaning, exploratory data analysis (EDA), and visualization techniques.

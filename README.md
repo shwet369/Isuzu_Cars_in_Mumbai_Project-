@@ -9,7 +9,7 @@ This project focuses on analyzing used car data in Mumbai, with a specific empha
 
 
 ---
-![image](https://github.com/user-attachments/assets/17b5e389-bcfd-4a6e-83c7-f051bde15c18)
+
 
 
 ## Repository Structure

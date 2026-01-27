@@ -79,7 +79,6 @@ Email: shweta.bhoyar096@gmail.com
 Happy Analyzing! 🚀
 
 
-You can modify the placeholders (like `https://github.com/username/repository-name.git`) with your repository details and tailor the insights section based on your findings. Let me know if you'd like further customization!
 
 
 
